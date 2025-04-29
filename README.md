@@ -4,7 +4,7 @@
 
 Piano App is an interactive web-based piano that allows users to play notes using both mouse clicks and keyboard keys. With volume control and the option to hide/show key labels, it offers a fun and simple way to simulate piano playing directly in the browser.
 
-Site published at: [your-repo-link-here]
+Site published at: https://github.com/MantasKukulskis/Piano
 
 Design: Original functionality and style by developer.
 
@@ -44,7 +44,7 @@ Want to run the project locally? Follow these steps:
 
     Clone the repository:
 
-git clone https://github.com/your-username/piano-app.git
+git clone https://github.com/MantasKukulskis/Piano.git
 
     Open the project folder:
 
@@ -58,7 +58,7 @@ There are no automated tests included in this project.
 
 ## 👨‍💻 Author
 
-Mantas: GitHub
+[Mantas: GitHub](https://github.com/MantasKukulskis)
 
 ## ⚠️ License
 
