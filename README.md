@@ -63,7 +63,3 @@ There are no automated tests included in this project.
 ## ⚠️ License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
-
-## 🔗 Other Resources
-
-No additional resources at this time.
